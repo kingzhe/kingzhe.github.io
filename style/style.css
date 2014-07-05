@@ -39,6 +39,7 @@ ul,li,dd,dl,dt,h1,h2,h3,h4,h5,h6,p,form{ margin:0px; padding:0px; font-weight:10
 .hide{ display:none;}
 .clk{ padding:15px 0; cursor:pointer;}
 .show{ width:371px; position:absolute; z-index:999; left:315px; top:-100px; border:5px solid #f1f1f1; display:none; background:#fff; line-height:30px; padding-top:10px;}
+.show a:hover{text-decoration: underline;}
 .show div.tit{ width:90%; margin:0px auto; color:#666666; text-align:left !important;}
 .show div.tit a{ color:#00a0e8;}
 .show div.img{ text-align:center !important}
